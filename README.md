@@ -1,31 +1,29 @@
 <div id="titulo" align="center">
-    <h1 align="center">Proyecto Reloj con agujas</h1>
+    <h1>Reloj con agujas</h1>
 </div>
 
 ---
 
-<div id="Caracteristicas" align="center">
-    <h2 align="center"> 🛠️ Especificaciones:</h2>
-    <h3>
-        Este proyecto fue creado con fines de practica<br>
-        Desarrollado en HTML, CSS y javaScript.<br>
-        Reloj basico que informa la hora local<br>
-    </h3>
+<div id="datos">
+    <h3>✔️ Datos:</h3>
+    <p>
+	🔹 Desarrollado en HTML, CSS y JavaScript <br>
+	🔹 Reloj básico que informa la hora local<br>
+    </p>
 </div>
 
 ---
 
-<div id="datos" align="center">
-    <h2>💾 Datos:</h2>
-    <br>
-        Aguja de horas, minutos y segundos<br>
+<div id="caracteristicas">
+    <h3>⚙️ Características:</h3>
+    <p>
+        🔸 Aguja de horas, minutos y segundos<br>
+    </p>
 </div>
 
 ---
 
 <div id="capturas" align="center">
-    <br>
-    <h2> 📷 Capturas:</h2>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/Reloj-con-agujas/Reloj-01.png?raw=true" alt="Cap1" width="700">
+    <h3 align="left"> 📷 Capturas:</h3>
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/RelojAgujas/img01.png?raw=true" alt="Cap1" width="800">
 </div>
